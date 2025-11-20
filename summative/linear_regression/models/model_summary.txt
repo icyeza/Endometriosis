@@ -1,0 +1,20 @@
+
+BEST MODEL SUMMARY
+==================
+Model Name: Linear Regression (GD)
+Test R² Score: 0.0692
+Test MSE: 0.2214
+Train R² Score: 0.0699
+Train MSE: 0.2254
+
+Dataset Information:
+- Total samples: 10000
+- Training samples: 8000
+- Testing samples: 2000
+- Number of features: 6
+- Target variable: Diagnosis
+
+Model Path: models\best_model.pkl
+Scaler Path: models\scaler.pkl
+Features Path: models\features.pkl
+Label Encoders Path: models\label_encoders.pkl
