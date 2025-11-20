@@ -7,6 +7,8 @@ This application is dedicated to advancing women's health by providing accessibl
 **Our commitment:** Making women's health data and predictive tools accessible, understandable, and actionable for every woman who needs them.
 
 ---
+## publicly available API endpoint 
+https://endometriosis-9799.onrender.com/
 
 ## About the Project
 
