@@ -6,7 +6,8 @@ class ApiService {
   late Dio _dio;
   late SharedPreferences _prefs;
   static const String _baseUrlKey = 'api_base_url';
-  static const String _defaultBaseUrl = 'http://localhost:8000';
+  // Use 10.0.2.2 for Android emulator, localhost for web/iOS simulator
+  static const String _defaultBaseUrl = 'http://10.0.2.2:8000';
 
   ApiService() {
     _dio = Dio();

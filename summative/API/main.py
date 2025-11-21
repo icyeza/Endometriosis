@@ -441,6 +441,14 @@ async def value_error_handler(request, exc):
 
 if __name__ == "__main__":
     import uvicorn
+    print("\n" + "="*60)
+    print(" Starting Endometriosis Prediction API Server")
+    print("="*60)
+    print(" Local access: http://localhost:8000")
+    print(" Android emulator: http://10.0.2.2:8000")
+    print(" Network access: http://0.0.0.0:8000")
+    print(" Swagger UI: http://localhost:8000/docs")
+    print("="*60 + "\n")
     uvicorn.run(
         "main:app",
         host="0.0.0.0",
