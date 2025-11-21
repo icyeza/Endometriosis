@@ -10,7 +10,7 @@ This application is dedicated to advancing women's health by providing accessibl
 ## publicly available API endpoint 
 https://endometriosis-9799.onrender.com/
 ## Path to Swagger UI Documentation
-http://127.0.0.1:8000/docs
+https://endometriosis-9799.onrender.com/docs
 
 ## About the Project
 
